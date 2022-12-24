@@ -1,8 +1,7 @@
 - 👋 Hola mi nombre @muichiro29
 - 👀 Soy el creador de una bot llamada [Ruka](https://ruka.ga)
-- 🌱 Soy staff de [Orinoco NT]()
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Soy staff de [Orinoco NT](https://discord.gg/uYpcPARhCe)
+
 
 <!---
 muichiro29/muichiro29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

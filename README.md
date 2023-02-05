@@ -1,6 +1,6 @@
 - 👋 Hola mi nombre @muichiro29
 - 👀 Soy el creador de una bot llamada [Ruka](https://ruka.ga)
-- 🌱 Soy staff de [NorthRP](https://discord.gg/uYpcPARhCe)
+- 🌱 Soy staff de [Erine](https://discord.gg/WKv2zYFhtH)
 
 
 <!---

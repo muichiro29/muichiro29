@@ -1,5 +1,5 @@
-- 👋 Hola mi nombre @muichiro29
-- 👀 Soy el creador de una bot llamada [Ruka](https://ruka.ga)
+- 👋 Hola mi nombre es muichiro29
+- 👀 Soy el creador [Ruka](https://ruka.ga)
 - 🌱 Soy staff de [Erine](https://discord.gg/WKv2zYFhtH)
 
 

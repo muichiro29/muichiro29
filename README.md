@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/TBwPxtUG5p">
+  <a href="https://discord.com/invite/kVHjtveCx7">
     <img width="300" src="https://media.discordapp.net/attachments/1059853976595607612/1082092763367084103/ruka_kawaii.png?width=1024&height=276" alt="ruka.ga">
   </a>
 </p>

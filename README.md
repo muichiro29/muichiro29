@@ -63,7 +63,3 @@ Soluciones profesionales de alto rendimiento diseñadas para llevar tus proyecto
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muichiro29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-</p>

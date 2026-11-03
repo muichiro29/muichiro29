@@ -1,27 +1,59 @@
 <p align="center">
-  <a href="https://discord.com/invite/kVHjtveCx7">
-    <img width="300" src="https://media.discordapp.net/attachments/1059853976595607612/1082092763367084103/ruka_kawaii.png?width=1024&height=276" alt="ruka.ga">
+  <a href="https://discord.gg/W6n62qdRUk">
+    <img width="300" src="https://images.squarespace-cdn.com/content/v1/6306aaf3653fde34203ac5c0/1661451294135-FU9SECGRSLM6A0GVBH0U/Muichiro+Tokito.gif?format=1000w" alt="Muichiro Dev">
   </a>
 </p>
 
-<h1 align="center" color="#8700ff">Hello There 
+<h1 align="center">
+  Muichiro Dev
 </h1>
-<img align="right" src="https://images.squarespace-cdn.com/content/v1/6306aaf3653fde34203ac5c0/1661451294135-FU9SECGRSLM6A0GVBH0U/Muichiro+Tokito.gif?format=1000w" width=300 height=300>
 
-## Informacion
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&multiline=true&width=500&height=199&lines=%E2%80%BA+Hola+soy+muichiro+tokito;%E2%80%BA+Un+desarrollador+de+bots+virtuales;%E2%80%BA+Soy+talentoso+en+la+programacion+con+los+;lenguaje+erine+y+aoi.js;%E2%80%BA+Hasta+aqui+no+mas+pude+llegar+amigo!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=%E2%80%BA+Hola%2C+soy+Muichiro+Dev;%E2%80%BA+Desarrollador+de+bots+de+Discord;%E2%80%BA+Apasionado+por+la+programaci%C3%B3n;%E2%80%BA+%C2%A1Bienvenido+a+mi+perfil!" alt="Typing SVG" />
+</p>
 
-## Librerias mas utilizadas
-`erine` `aoi.js` 
+---
 
-## Proyectos
+### Sobre mí
 
-| Proyectos       | 
-| ----------- |
-| nsfw-muichiro      | 
-|             |
-| memes-spanish-muichiro     | 
-|             |
-| Ruka      | 
+Desarrollador de bots de Discord.  
+Me gusta crear proyectos útiles, divertidos y bien optimizados.
 
+---
 
+### Hosting
+
+# 🚀 ¡CYCLOHOST HA LLEGADO! 🔥
+
+💻 **Tu próximo nivel de hosting comienza aquí.**  
+En **CycloHost** tenemos soluciones para llevar tus proyectos al siguiente nivel. ⚡
+
+#### 🌐 Nuestros Servicios
+- 🎮 **Game Hosting** — Servidores de juegos  
+- 🤖 **Bot Hosting** — Hosting para bots de Discord  
+- 🎵 **Lavalink Hosting** — Música para tus bots  
+- 💾 **Storage Hosting** — Almacenamiento para tus proyectos
+
+🎁 ¡Esto apenas comienza! Pronto tendremos novedades y promociones.
+
+#### 🔗 Únete a nuestra comunidad
+👉 [discord.gg/W6n62qdRUk](https://discord.gg/W6n62qdRUk)
+
+🌟 *CycloHost — Tus proyectos, nuestro compromiso.* 🔥
+
+---
+
+### Proyectos
+
+| Proyecto                  | Descripción                     |
+|---------------------------|---------------------------------|
+| **nsfw-muichiro**         | Bot NSFW                        |
+| **memes-spanish-muichiro**| Bot de memes en español         |
+
+---
+
+<p align="center">
+  <a href="https://discord.gg/W6n62qdRUk">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
